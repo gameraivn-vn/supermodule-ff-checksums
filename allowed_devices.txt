@@ -1,3 +1,4 @@
 # Danh sách Android ID được cấp quyền dùng module — mỗi dòng 1 ID, không dấu cách/ký tự thừa.
 # Cách lấy ID của bạn: mở module -> Thêm -> Giới Thiệu -> "ID Máy Của Bạn" -> Sao Chép ID
 # Dán ID vào đây, mỗi người 1 dòng, rồi Commit changes trên GitHub.
+d9253cd9555180f7
